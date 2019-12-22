@@ -1,0 +1,73 @@
+
+.my-name{ color: #336699;
+}
+.body{ font-family: sans-serif;
+color: #990099; 
+line-height: 25px;
+}
+.half-width{ background-color:skyblue ;
+width: 100%;
+float: left;
+}
+.image-side{
+padding-left: 50%;
+width: 100%;}
+
+.primary-btn{
+color: #ffffcc; 
+padding: 5px 6px 6px 5px;
+border: 2px double  black;
+barder-radius: 10px;
+background-color: #990099 ;
+text-decoration: none ;
+}
+
+h1{font-size: 5em;
+}
+
+h2 { font-size: 3em;
+}
+h3 { font-size: 2em; 
+}
+
+.right-container{
+        padding-left: 120%;
+         display: inline-block; }
+          
+.top{ width: 149%;
+}
+
+.experiences { 
+color: #333399;
+padding: 30px;
+margin: 30px;
+background-color: #66ffff;
+background-radius: 20px;
+}
+.experience-item {
+padding: 10px;
+border-left: 1px solid rgba(137,130,247,2 );
+ }
+.zee{ color: #ff6666;
+}
+.zeee{ color: #33ffff;
+background-color: #6666ff;
+border: 4px solid brown ;
+
+}
+.side-image{ width: 100% ;
+margin: 30px ;}
+
+.right-width{ color: #cc00cc;
+width:350%;
+background-color: #ccff99;
+margin: 10px;
+background-radius: 20px ;
+float: right;
+}
+.friends{ color: brown;
+background-color: #ffff33; }
+
+.frnds{ color:#00cc00;
+}
+
